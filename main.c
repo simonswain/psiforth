@@ -388,7 +388,7 @@ void repl(){
 
 int main(int argc, char **argv) {
   
-  printf("pForth %s\n", VERSION_NUMBER);
+  printf("psiFORTH %s\n", VERSION_NUMBER);
 
   init();
   repl();
