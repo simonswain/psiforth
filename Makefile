@@ -1,7 +1,7 @@
 CFLAGS=-Wall -g
 
 clean:
-	rm -f pforth
+	rm -f psiforth
 
 all:
-	cc -Wall -g    main.c   -o pforth
+	cc -Wall -g    main.c   -o psiforth
